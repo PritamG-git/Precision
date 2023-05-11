@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1000083424876",
+    "project_id": "precision-on-call-app",
+    "storage_bucket": "precision-on-call-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000083424876:android:aa0adc353862d689ce7a49",
+        "android_client_info": {
+          "package_name": "com.precision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000083424876-211p6jeg7tpieaubi9bctb1h947stnco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrM8qA3kZKq_Ftctg4sLsvyD-ns12QXVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000083424876-211p6jeg7tpieaubi9bctb1h947stnco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000083424876-1mpseo9217pde873qn1qq9lqv9f497kl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.precision"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000083424876:android:0cfbfef20abd942dce7a49",
+        "android_client_info": {
+          "package_name": "com.precision.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000083424876-211p6jeg7tpieaubi9bctb1h947stnco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrM8qA3kZKq_Ftctg4sLsvyD-ns12QXVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000083424876-211p6jeg7tpieaubi9bctb1h947stnco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000083424876-1mpseo9217pde873qn1qq9lqv9f497kl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.precision"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000083424876:android:c3d83db8ef57097fce7a49",
+        "android_client_info": {
+          "package_name": "com.precisioncustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000083424876-211p6jeg7tpieaubi9bctb1h947stnco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrM8qA3kZKq_Ftctg4sLsvyD-ns12QXVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000083424876-211p6jeg7tpieaubi9bctb1h947stnco.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1000083424876-1mpseo9217pde873qn1qq9lqv9f497kl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.precision"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

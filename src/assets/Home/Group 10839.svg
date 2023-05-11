@@ -1,0 +1,11 @@
+<svg id="Group_10839" data-name="Group 10839" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="218.5" viewBox="0 0 375 218.5">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_7362" data-name="Path 7362" d="M0,295H375V446s-93.25,67.5-187,67.5S0,446,0,446Z" transform="translate(0 -295)" fill="#05a1ab"/>
+    </clipPath>
+  </defs>
+  <path id="Path_7342" data-name="Path 7342" d="M0,295H375V446s-93.25,67.5-187,67.5S0,446,0,446Z" transform="translate(0 -295)" fill="#05a1ab"/>
+  <g id="Mask_Group_12" data-name="Mask Group 12" opacity="0.1" clip-path="url(#clip-path)">
+    <path id="blob" d="M97.486-33.394c13.107.666,22.66,14.662,31.324,29.1,8.664,14.662,16.662,29.769,13.329,43.32-3.11,13.329-17.328,24.881-29.547,33.323s-22.438,14-32.435,25.1-19.772,27.992-29.1,27.1c-9.108-.889-17.995-19.55-32.213-28.214C4.4,87.681-15.37,89.014-26.7,81.461s-14-24.215-14.662-41.1C-41.806,23.7-40.251,6.372-32.7-7.4c7.775-14,21.549-24.437,36.434-23.993,14.884.222,30.88,11.552,47.319,10.886C67.495-21.4,84.156-33.838,97.486-33.394Z" transform="translate(122.635 -55.75) rotate(21)" fill="#fff"/>
+  </g>
+</svg>
